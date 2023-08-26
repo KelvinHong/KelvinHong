@@ -1,7 +1,6 @@
 - Hi, I'm @KelvinHong
-- I'm interested in AI development in Python
-- I'm currently studying MSc in AI in Asia Pacific University.
-- I'm looking to collaborate on AI and related fields.
+- AI/ML developer and engineer with 2 YOE
+- I'm looking to collaborate on AI/ML field, especially Computer Vision projects.
 - How to reach me: Email "kh.boon2@gmail.com".
 
 <!---
